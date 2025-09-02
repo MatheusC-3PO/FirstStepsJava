@@ -1,0 +1,6 @@
+package operadoresaritmeticos;
+
+public class OperadoresAritmeticos
+  /* int n1 = 3;
+    int n2 = 5;
+    flaot m = (n1 + n2) / 2 
